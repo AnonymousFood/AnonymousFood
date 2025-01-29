@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on a ML research project
+🌱 I’m currently learning Computer Graphics
+💬 Ask me about how to win your local school's CTF
+⚡ Fun fact: I've attempted a 24-hour game jam (and fell asleep)
